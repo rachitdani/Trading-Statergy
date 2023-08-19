@@ -13,7 +13,7 @@ pip install -r Algobulls-Statergy/requirements.txt
 
 # Code Blocks
 
-The project consists of the following functions:
+The project consists of the following Classes:
 
 ScriptData: This class fetches intraday stock data using the Alpha Vantage API. The data is also converted to data frames
 
