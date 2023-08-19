@@ -1,16 +1,19 @@
-# algobulls
-A moving average based strategy developed in python
+# Algobulls
+A Moving Average based strategy developed in python using Rolling Windows
 
 # Requirements
 
-To run this project, you need to have the following dependencies installed:
+Before running the project make sure to install the requirements file by using the following code:
 
-pandas
-requests
+```javascript
+pip install -r Algobulls-Statergy/requirements.txt
+```
+
+
 
 # Code Blocks
 
-The project consists of the following code blocks:
+The project consists of the following functions:
 
 ScriptData: This class fetches intraday stock data using the Alpha Vantage API. The data is also converted to data frames
 
