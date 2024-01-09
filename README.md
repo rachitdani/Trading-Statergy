@@ -1,12 +1,20 @@
-# Algobulls
+# Trading Stratergy
 A Moving Average based strategy developed in python using Rolling Windows
 
 # Requirements
 
 Before running the project make sure to install the requirements file by using the following code:
 
-```javascript
-pip install -r Algobulls-Statergy/requirements.txt
+First open Command Prompt / Terminal and run :
+
+```
+cd Trading-Statergy
+```
+
+Then run :
+
+```
+pip install -r requirements.txt
 ```
 
 
